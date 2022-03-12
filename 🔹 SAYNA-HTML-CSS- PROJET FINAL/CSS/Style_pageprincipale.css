@@ -1,0 +1,134 @@
+.image{
+    width: 100px;
+}
+.header2{
+    background-image: url(Assets/Images/group-1.1.jpg);
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+    padding: 400px;
+    
+    
+}
+.paragraphe1{
+    font-size: 30px;
+    color: azure;
+    text-align: center;
+    margin-top: -200px;
+    text-shadow: 1;
+}
+.background{
+    background-color: rgba(255, 255, 255, 70%);
+    padding-bottom: 15px;
+    padding-top: 12px;
+    width: 700px;
+    margin-left: 200px;
+}
+.button{
+    background-color:rgb(194, 91, 91);
+    color: azure;
+    border-style: hidden;
+    border-radius: 10%;
+    padding:4px 6px;
+}
+
+
+.paragraphe2{
+    font-size: 15px;
+}
+    .button1{
+        background-color: rgba(255, 255, 255, 70%);
+        border-style: hidden;
+        border-radius: 5px;
+    }
+.page1{
+    margin-top: -300px;
+}
+.paragraphe3{
+    margin-top: 8px;
+}
+ 
+
+.events{
+    color: white;
+    font-size: 20px;
+    margin-left: -40px;
+    margin-top: 10px;
+}
+.paragraphe4{
+    color: rgb(194, 91, 91);
+    margin-top: 50px;
+    font-size: 25px;
+}
+.button2{
+    background-color: aliceblue;
+    color: rgb(194, 91, 91);
+    border-style: hidden;
+    padding:4px 2px;
+}
+.button3{
+    color: grey;
+    border-style: hidden;
+    padding:4px 2px ;
+}
+
+
+.foot1 a {
+    padding: 20px;
+}
+
+
+.foot2 a {
+    padding: 20px;
+}
+ 
+
+.blocfoot1 a{
+    padding: 20px;
+}
+
+
+.foot1{
+    padding: 20px;
+}
+
+.foot2{
+    padding: 20px;
+}
+
+
+.map{
+    border-style: solid;
+    border-color: white;
+    border-radius: 50%;
+    
+
+
+    .foot1{
+        padding: 20px;
+    }
+    
+    .foot2{
+        padding: 20px;
+    }
+     
+    .blocfoot1{
+        border-style: solid none solid none;
+        border-color: white;
+    }
+    
+    .map{
+        border-style: solid;
+        border-color: white;
+        border-radius: 50%;
+        
+        
+    }
+    
+    .blocfoot1 a{
+        padding: 20px;
+    }
+    
+    .grise:hover{
+        color:  #98a5a5;
+    }
+

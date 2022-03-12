@@ -1,0 +1,142 @@
+.image{
+    width: 100px;
+}
+.header2{
+    background-image: url(Assets/Images/group-1.1.jpg);
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+    padding: 400px;
+    
+    
+}
+.paragraphe1{
+    font-size: 30px;
+    color: azure;
+    text-align: center;
+    margin-top: -200px;
+}
+.background{
+    background-color: rgba(255, 255, 255, 70%);
+    padding-bottom: 15px;
+    padding-top: 12px;
+    width: 700px;
+    margin-left: 200px;
+}
+.button{
+    background-color:rgb(194, 91, 91);
+    color: azure;
+    border-style: hidden;
+    border-radius: 10%;
+    padding:4px 6px;
+}
+
+
+.paragraphe2{
+    font-size: 15px;
+}
+    .button1{
+        background-color: rgba(255, 255, 255, 70%);
+        border-style: hidden;
+        border-radius: 5px;
+    }
+.page1{
+    margin-top: -300px;
+}
+.paragraphe3{
+    margin-top: 8px;
+}
+.entete{
+    color: azure;
+}
+.entete:hover{
+    color:  #98a5a5;
+}
+.svg:hover{
+    color:  #98a5a5;
+}
+.events{
+    color: white;
+    font-size: 25px;
+    margin-left: -40px;
+}
+.events:hover{
+    color:  #98a5a5;
+}
+
+.paragraphe4{
+    color: rgb(194, 91, 91);
+    margin-top: 50px;
+    font-size: 25px;
+}
+.button2{
+    background-color: aliceblue;
+    color: rgb(194, 91, 91);
+    border-style: hidden;
+    padding:4px 2px;
+}
+.button3{
+    color: grey;
+    border-style: hidden;
+    padding:4px 2px ;
+}
+.button4{
+    background-color: #444;
+    color: azure;
+    border-style: hidden;
+    border-radius: 5%;
+    padding:1% 4%;
+}
+.bar1{
+   padding-bottom: 9px;
+   background-color: black;
+}
+.survole{
+  text-decoration: none;
+}
+.survole:hover{
+    text-decoration: underline;
+}
+.survole1:hover{
+    color: #98a5a5;
+}
+.survole1{
+    text-decoration: none;
+    color: white;
+}
+.local{
+    border: 1px solid black;
+    height: 70px;
+    border-radius: 2%;
+    
+}
+.border{
+    margin-top: 5%;
+    margin-left: 2%;
+    box-shadow: 0px 3px 10px 3px gray;
+}
+.border1{
+    box-shadow: 0px 1px 5px 1px gray;
+    border-style: hidden;
+}
+.border1 input{
+    border-style: hidden;
+    color:  #509bd7;
+}
+.button5{
+    background-color:  #509bd7;
+    border-style: hidden;
+    padding: 12px 10px;
+    margin-left: 86%;
+}
+.details{
+    margin-top: 5%;
+    margin-left: 2%;
+    padding: 3%;
+}
+
+
+
+
+
+
+
